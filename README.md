@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Pereira
-- 👀 I’m interested in  uma oportunidade de Estágio  ou  Trainee, em Programação (Java), ou outras linguagens. 
-- 🌱 I’m currently learning HTML, JAVASCRIPT, CSS, Banco de Dados: SQL Server.Java, Eclipse.
-- 💻 I work with Systems Support Analyst.
+- 👋 Ola, sou o Eduardo Pereira.
+- 👀 Estou interessado em uma oportunidade de Estágio ou Trainee, em Programação Backend (Java), ou outras linguagens. 
+- 🌱 Estou estudando: HTML, JAVASCRIPT, CSS, Banco de Dados: SQL Server.Java, Eclipse.
+- 💻 Atualmente estou trabalhando como Analista de Sustentação de Sistema Bitrix, e Implementador de Qualidade, Faço Testes Manuais de um Projeto em Especifico, que sou o administrador do projeto.
